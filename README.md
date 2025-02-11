@@ -1,7 +1,6 @@
 # openmusic-queue-consumer
 
-Repository aplikasi tambahan pada Submission Kelas [Dicoding Belajar Fundamental Aplikasi Back-End](https://www.dicoding.com/academies/271) 
-untuk memenuhi kriteria "fitur Expor Lagu Pada Playlist" menggunakan message broker RabbitMQ.
+Repository aplikasi tambahan pada Submission Kelas [Dicoding Belajar Fundamental Aplikasi Back-End](https://www.dicoding.com/academies/271) .
 
 # Quickstart
 
