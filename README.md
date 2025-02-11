@@ -17,7 +17,7 @@ Install dependency
 npm install
 ```
 
-Menyiapkan environment dengan menggunakan .env.template yang tersedia
+Membuat .env dengan referensi pada..env.example
 ```bash
 # Postgresql
 PGUSER=
