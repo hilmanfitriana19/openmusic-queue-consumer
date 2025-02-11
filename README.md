@@ -6,7 +6,7 @@ Repository aplikasi tambahan pada Submission Kelas [Dicoding Belajar Fundamental
 
 Clone Repository
 ```
-git clone https://github.com/hilmanfitriana19/openmusic-back-end
+git clone https://github.com/hilmanfitriana19/openmusic-queue-consumer
 ```
 ```bash
 cd openmusic-queue-consumer
